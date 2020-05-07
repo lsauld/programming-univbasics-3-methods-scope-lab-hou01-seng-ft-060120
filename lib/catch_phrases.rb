@@ -15,4 +15,6 @@ def link
 end 
 
 def all_phrases
+  puts "It's-a me, Mario!"
+  puts "Thank You Mario! But Our Princess Is In Another Castle!"
   puts 
